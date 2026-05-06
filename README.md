@@ -24,7 +24,8 @@
    cd bio-ai-interpreter
 
 2. **Instalacja zależności**
-    pip install python-dotenv openai
+   ```bash
+   pip install python-dotenv openai
 
 3. **Konfiguracja środowiska**
     Stwórz plik .env w katalogu głównym i uzupełnij go:
@@ -32,4 +33,5 @@
     AI_MODEL=twoj_model_ai
 
 4. **Uruchomienie analizy**
-    python main.py
+   ```bash
+   python main.py
