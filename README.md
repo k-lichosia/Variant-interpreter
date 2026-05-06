@@ -20,7 +20,7 @@
 
 1. **Klonowanie repozytorium:**
    ```bash
-   git clone [https://github.com/twoj-username/bio-ai-interpreter.git](https://github.com/twoj-username/bio-ai-interpreter.git)
+   git clone https://github.com/k-lichosia/Variant-interpreter/edit/main/README.md
    cd bio-ai-interpreter
 
 2. **Instalacja zależności**
