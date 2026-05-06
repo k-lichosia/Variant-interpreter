@@ -7,8 +7,8 @@ load_dotenv()
 api_key = os.getenv("GROQ_API_KEY")
 model_name = os.getenv("AI_MODEL")
 
-if not api_key:
-    print("ERROR: Nie znaleziono klucza API. Upewnij się, że plik .env istnieje.")
+if not api_key or not model_name:
+    print("ERROR: Nie znaleziono klucza API lub nazwy modelu. Upewnij się, że plik .env istnieje i jest poprawnie wypełniony.")
     exit()
 
 client = OpenAI(
