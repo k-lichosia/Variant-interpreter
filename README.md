@@ -25,7 +25,7 @@
 2. **Konfiguracja środowiska**
     Stwórz plik .env w katalogu głównym i uzupełnij go:
     GROQ_API_KEY=twoj_klucz_api
-    AI_MODEL=twoj_model_ai
+    AI_MODEL=twoj_model_ai (np. llama-3.1-8b-instant)
 
 3. **Uruchomienie analizy**
    ```bash
