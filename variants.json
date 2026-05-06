@@ -1,0 +1,17 @@
+[
+    {
+        "gene": "KRAS",
+        "variant": "p.Gly12Asp",
+        "effect": "Missense mutation"
+    },
+    {
+        "gene": "CFTR",
+        "variant": "p.Phe508del",
+        "effect": "In-frame deletion"
+    },
+    {
+        "gene": "BRCA2",
+        "variant": "p.Trp2622*",
+        "effect": "Nonsense mutation"
+    }
+]
