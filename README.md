@@ -18,20 +18,15 @@
 
 ## Instalacja i Uruchomienie
 
-1. **Klonowanie repozytorium:**
-   ```bash
-   git clone https://github.com/k-lichosia/Variant-interpreter/edit/main/README.md
-   cd bio-ai-interpreter
-
-2. **Instalacja zależności**
+1. **Instalacja zależności**
    ```bash
    pip install python-dotenv openai
 
-3. **Konfiguracja środowiska**
+2. **Konfiguracja środowiska**
     Stwórz plik .env w katalogu głównym i uzupełnij go:
     GROQ_API_KEY=twoj_klucz_api
     AI_MODEL=twoj_model_ai
 
-4. **Uruchomienie analizy**
+3. **Uruchomienie analizy**
    ```bash
    python main.py
