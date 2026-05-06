@@ -14,7 +14,6 @@
 - `main.py`: Główna logika aplikacji, obsługa zapytań do LLM i przetwarzanie danych.
 - `variants.json`: Zewnętrzny plik wejściowy z listą wariantów do analizy.
 - `.env`: Plik konfiguracyjny (klucze API, nazwy modeli) – **niepublikowany w repozytorium**.
-- `.gitignore`: Definicja plików wykluczonych z kontroli wersji.
 
 ## Instalacja i Uruchomienie
 
