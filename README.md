@@ -1,6 +1,6 @@
 # Variant Interpreter
 
-**Variant Interpreter** is a Python-based tool that integrates LLMs with genomic data analysis. The system automates the process of genetic variant interpretation by translating bioinformatic data into clinical-grade reports using a Retrieval-Augmented Generation (RAG) architecture.
+**Variant Interpreter** is a Python-based tool that integrates LLMs with genomic data analysis. The system automates the process of genetic variant interpretation by translating bioinformatic data into clinical-grade reports using a RAG architecture.
 
 ## Features
 
