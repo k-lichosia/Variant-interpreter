@@ -10,7 +10,7 @@ api_key = os.getenv("GROQ_API_KEY")
 model_name = os.getenv("AI_MODEL") 
 
 if not api_key or not model_name:
-    print("ERROR: Nie znaleziono klucza API lub nazwy modelu. Upewnij się, że plik .env istnieje i jest poprawnie wypełniony.")
+    print("ERROR: Count not find API key or model name in environment variables. Please check your .env file.")
     exit()
 
 client = OpenAI(
