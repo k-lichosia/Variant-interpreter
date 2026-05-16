@@ -87,5 +87,3 @@ if __name__ == "__main__":
         print(f"Final report saved to {plik_wynikowy}")
     except Exception as e:
         print(f"ERROR: Could not save report - {str(e)}")
-
-#Oto 4 fajne kierunki, w których możemy to rozwinąć, żeby z prostego skryptu zrobić solidne narzędzie inżynieryjne:
