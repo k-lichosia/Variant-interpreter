@@ -23,8 +23,8 @@
 
 2. **Environment Configuration**
     Create a .env file in the root directory and fill in the details:  
-    GROQ_API_KEY=twoj_klucz_api    
-    AI_MODEL=twoj_model_ai (np. llama-3.1-8b-instant)
+    GROQ_API_KEY=your_API_key   
+    AI_MODEL=your_ai_model (np. llama-3.1-8b-instant)
 
 3. **Run the analysis**
    ```bash
